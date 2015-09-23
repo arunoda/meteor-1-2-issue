@@ -1,0 +1,15 @@
+<body>
+  {{> loginButtons}}
+
+  <hr />
+
+  {{#if currentUser}}
+    You are loggedIn
+  {{else}}
+    {{#if loggingIn}}
+      Logging in to the app
+    {{else}}
+      You are Not Loggedin
+    {{/if}}
+  {{/if}}
+</body>

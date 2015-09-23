@@ -1,0 +1,40 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+accounts-ui-unstyled 
+accounts-base 
+accounts-ui 
+accounts-password 
+service-configuration 
+accounts-google 
+accounts-twitter 
+accounts-facebook 
+email
+
+standard-app-packages 
+facts 
+http
+
+meteorhacks:npm 
+mrt:google-contacts 
+bozhao:link-accounts 
+google 
+spiderable
+
+reactive-var 
+accounts-github 
+reactive-dict 
+bozhao:aws-sdk 
+mouse0270:bootstrap-notify 
+grigio:babel 
+peerlibrary:blaze-components 
+fourseven:scss 
+standard-minifiers
+
+iron:router
+
+npm-container
+meteorhacks:kadira
